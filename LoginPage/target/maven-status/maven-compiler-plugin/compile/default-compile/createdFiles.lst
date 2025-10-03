@@ -1,0 +1,6 @@
+com\example\demo\config\WebConfig.class
+com\example\demo\DemoApplication.class
+com\example\demo\config\SecurityConfig.class
+com\example\demo\model\User.class
+com\example\demo\service\UserDetailsServiceImpl.class
+com\example\demo\repository\UserRepository.class
